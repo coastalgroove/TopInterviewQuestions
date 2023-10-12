@@ -1,0 +1,113 @@
+
+---------------------------------------------
+1.Tell Me about Yourself (30 to 45 sec)
+I started in aerospace and after a layoff I even spent
+a little time as professional musician then I backed into
+IT installing and configuring routers/switchs and firewalls.
+That group also did penetration testing and I decided to
+take that path.
+
+To be more successful at using exploits I needed to learn
+how to read what they were doing and what software component
+they were targeting, also many exploits require some customization
+for the target so I began learning to read and write
+C, PHP, Python, PERL, Java, Ruby, PowerShell
+
+As time went on my creativity led me to design some of my
+own exploits as well as offensive tools sHack was my first
+a semi-automated attack framework for identifying weak targets
+and launching attacks, then pwdFactory which was a psychological
+profiling linguistic based password generator, then Injecta which
+is designed to use the 1970 Bell labs C parser library common
+to every computer and application in the world and use syntax
+primitives like a software language desgined to get the parser
+to do things the software devleoper never considered.
+
+Family circumstances required we move to the Nashville area
+and the classified world I had been in was no longer available
+So I decided to embrace my love of creating software "liquid thought"
+I call it and specialize in software and signed up for TrueCoders
+9week Software Engineering Full Stack Web Development bootcamp.
+and here I am
+
+--------------------------------------
+2. What are your Strengths?
+Adaptability, intense focus fast learner
+
+-------------------------------------
+3. What are your biggest Weaknesses?
+My intense focus can cause me to communicate less and I am working on that
+
+
+---------------------------------
+4. Why do you want to work here
+	The vision of XYZ company and
+	the software technology  you
+	specialize in appeals to me
+	professinally and creatively
+	I see opportunity for growth
+	
+------------------------------------
+5. Why did you leave your last job?
+Family circumstances required we move to the Nashville area
+and the classified world I had been in was no longer available
+
+------------------------------------
+6. What is your Biggest Accomplishment?
+Seeing, Conceiving of an overlooked
+component of security and writing a
+cyberwarfare tool that exploited it
+
+Injecta, designed to use the 1970 Bell labs C parser library common
+to every computer and application in the world and use syntax
+primitives like a software language desgined to get the parser
+to do things the software devleoper never considered.
+
+
+----------------------------------------------------
+7. Describe a difficult problem you were faced with
+and what did you do to overcome it?
+Teaching myself how to code, fortunately I enjoyed it
+so it made it easier, I really enjoy watching
+my thoughts come alive in functiong software
+
+----------------------------------------------------
+8. Where do you see yourself five years from now?
+	Specializing in writing defensive and offensive software tools
+
+----------------------------------------------------
+9. Why Should we hire you?
+	I am an over the horizon thinker.
+	I am a subtractor, I avoid normalcy bias in my problem solving
+	I'm a trained engineer with music skills and it gives
+	me a unique approach to envisinoing software and problem solving	
+
+----------------------------------------------------
+10.Do you have any questions for me?
+
+What design pattern does your team currently use?
+
+How does your company orgaznization culture view the role of creativity
+as an active ingredient in the group culture anad software design
+
+How would you describe the software philosophy of your senior software engineer
+
+Do software delivery promised dates take priority over testing?
+
+What is the average length of time at your company for your developers
+
+Do you have a program for funding outside certifications that relate
+to learning new software design, attending software seminars and conventions
+and does that include security as it applies to both built-in and active
+skills used for dynamically testing your software for vuln?
+	
+There is a difference between someone who only "codes" and becomes institutionalized
+vs someone who considers new approaches to solving problems
+
+
+
+
+
+
+	
+
